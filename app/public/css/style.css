@@ -1,0 +1,117 @@
+body{
+  background: url(../images/Bg-2.jpg);
+  background-attachment: fixed;
+  background-size: 100%;
+}
+
+#surveyBody{
+  background: url(../images/Bg-3.jpg);
+  background-attachment: fixed;
+  background-size: 100%;
+}
+
+.jumbotron {
+  background: url(../images/Bg-2.jpg);
+  height: 100%;
+  background-size: 100%;
+}
+
+.smallJtron{
+  background: url(../images/Bg-1.jpg);
+  overflow: auto;
+  height: 60%;
+  margin-top: 50px !important;
+  text-align: center;
+}
+
+#matchImg{
+  margin-left: 20%;
+}
+
+.container2 {
+  margin-bottom: 10%;
+}
+
+.logo{
+  position: relative;
+  top: -5px;
+}
+
+.heading1{
+  font-family: 'Great Vibes', cursive;
+  color: black !important;
+  font-size: 45px;
+  font-weight: bold;
+}
+.heading2{
+  font-family: 'Open Sans', sans-serif;
+  color: black !important;
+  font-size: 38px;
+  font-weight: bold;
+}
+
+h1, h2, h3 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #66cc99 !important;
+  font-size: 32px;
+}
+
+h4 {
+  font-size: 28px;
+}
+
+.survey-container{
+  background-color: rgba(0, 0, 71, 0.5) !important;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #fff !important;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 15px;
+  border-color: #3366cc;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.chosen-container-single .chosen-default {
+    color: #999;
+    height: 28px;
+    width: 125px;
+}
+
+
+
+.surveyLink{
+  /*margin-left: 90px;*/
+  align-self: center;
+  /*margin: 2px;*/
+  padding: 10px;
+  background-color: #fff !important;
+}
+
+#homeLinks{
+  /*margin-left: 90px;*/
+  align-self: center;
+  padding: 10px;
+  font-size: 25px;
+  font-color: black;
+
+  /*background-color: #fff !important;*/
+}
+
+.modal-content{
+  background-color: rgba(0, 0, 0, 9) !important;
+  font-family: 'Great Vibes', cursive !important;
+  color: #fff !important;
+  border-radius: 15px;
+  border-color: #3366cc;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.modal-header,.modal-body,.modal-footer{
+   font-family: 'Great Vibes', cursive !important;
+   color: #66cc99  !important;
+   border-top-color: #3366cc;
+   border-bottom-color: #3366cc;
+}
+
