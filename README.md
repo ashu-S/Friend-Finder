@@ -9,10 +9,10 @@ I have build a compatibility-based Game Of Thrones Theamed "Personality Finder" 
 
 <H3> App Survey Page </H3>
 
-![Survey](AppScreenShots/survey1.png?raw=true "survey")
+![Survey](AppScreenShots/survey1.PNG?raw=true "survey")
 
-![Survey](AppScreenShots/survey2.png?raw=true "survey")
+![Survey](AppScreenShots/survey2.PNG?raw=true "survey")
 
 <H3> App Survey Result </H3>
-![Survey](AppScreenShots/survey3.png?raw=true "survey")
+![Survey](AppScreenShots/survey3.PNG?raw=true "survey")
 
