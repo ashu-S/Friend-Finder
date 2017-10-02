@@ -4,7 +4,7 @@ I have build a compatibility-based Game Of Thrones Theamed "Personality Finder" 
 <H2>You can find the running app here - https://friendfinder-app-heroku.herokuapp.com/ </H2>
 
 <H3> App Home Page </H3>
-![Home](https://github.com/ashu-S/Friend-Finder/blob/master/AppScreenShots/home.PNG?raw=true "Home");
+![Home](AppScreenShots/home.PNG?raw=true "Home");
 
 <H3> App Survey Page </H3>
 ![Survey](./AppScreenShots/survey1.png?raw=true "survey")
